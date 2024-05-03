@@ -2,7 +2,7 @@ import java.util.Scanner; //Scanner reads user input
 
 public class product {
 
-    //sums integers from 1 to n
+    //multiplies integers from 1 to n
         public static void main(String[] args) {
             //input number
             Scanner choice = new Scanner(System.in);
