@@ -16,5 +16,5 @@ public class sum {
             sum = sum + index;
         }
         System.out.println(sum);
-}
+    }
 }
