@@ -1,6 +1,6 @@
 import java.util.Scanner; //Scanner reads user input
 
-public class orderedProduct {
+public class product {
 
     //multiplies integers from 1 to n
         public static void main(String[] args) {
